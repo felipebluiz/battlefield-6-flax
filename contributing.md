@@ -195,7 +195,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Battlefield 6 · Updated 2026-11-14 · Shared under the MIT License*
+*Battlefield 6 · Updated 2026-11-15 · Shared under the MIT License*
 
 
-Updated 2026-11-14.
+Updated 2026-11-15.
